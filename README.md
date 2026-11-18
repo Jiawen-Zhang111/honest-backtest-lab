@@ -3,7 +3,7 @@
 **A ruler, not a prophecy.** This measures whether a backtest is lying to you. It gives no trading signals,
 places no orders and touches no account.
 
-Full write-up: {{FLAGSHIP_URL}}
+Full write-up: https://jiawenzhang2.substack.com/p/my-stock-pickers-ranking-score-was
 
 ## Three ways a backtest lies
 
